@@ -1,3 +1,3 @@
 # hello-world
-Hello again, to all my friends.
-We gonna go make a rock-n-roll!
+Hello again, to all my friends,
+Together we can play some rock n' roll
